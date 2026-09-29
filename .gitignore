@@ -1,0 +1,17 @@
+# Qt
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qtc.user
+
+# Compilación
+debug/
+release/
+build-*/
+*.o
+*.obj
+*.exe
+
+# Sistema
+.DS_Store
+Thumbs.db
